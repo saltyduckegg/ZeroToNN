@@ -7,3 +7,5 @@
 cd data
 python MnistExtract.py
 ```
+
+现在所有训练数据都储存在路径`./data/mnist_sorted/` 下
