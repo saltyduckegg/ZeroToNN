@@ -1,0 +1,2 @@
+# 忽略 mnist_sorted 文件夹
+data/mnist_sorted/
